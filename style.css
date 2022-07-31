@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background:linear-gradient(#14546e 20%, purple 30%,  silver 50%);
+}
+
+#menu{
+list-style: none;
+z-index: 0px;
+}
+.list_item{
+margin-left: 12px;
+float:right;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size:x-large;
+color: white;
+}
+#Home{
+    color: white;
+}
+
